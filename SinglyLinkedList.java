@@ -7,7 +7,7 @@ public class SinglyLinkedList {
 	}
 
 	public void add(int value){ 
-		Node newNode = new Node(value);
+		Node newNode = new Node(value); // calling class Node, accessing Node method
 		if(this.head == null){  
 			this.head = newNode;
 		} else{
