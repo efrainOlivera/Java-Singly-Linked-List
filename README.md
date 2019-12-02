@@ -3,11 +3,13 @@ Singly Linked List
 In this assignment, you will create your own implementation of a singly linked list in Java. You will need 3 files: Node.java, SinglyLinkedList.java, and ListTester.java.
 
 Objectives:
+
 ● Practice creating classes and objects.
 
 ● Learn and implement a singly linked list in Java.
 
 Tasks:
+
 ● Create a Node class like the above.
 
 ● Fill in the constructor method that sets the value to a given number and next to null of your Node objects.
@@ -23,6 +25,7 @@ Tasks:
 ● Create a ListTester class like the above.
 
 Optional Challenges:
+
 ● Implement a find(int) method that will return the first node with the value in the parameter
 
 ● Implement a removeAt(int) method that will remove the node after n nodes, where n is the parameter. For example, if n is 0, remove the first node. If n is 1, remove the second node. Similar to Arrays.
